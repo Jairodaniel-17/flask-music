@@ -1,0 +1,12 @@
+{
+  "name": "mi-proyecto-flask-electron",
+  "version": "1.0.0",
+  "description": "Un proyecto de Flask empaquetado con Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
